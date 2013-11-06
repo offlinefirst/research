@@ -7,18 +7,27 @@ Here’s a more or less complete list of feedback we’ve received on the initia
 ### Notable Mentions
 
 https://twitter.com/zeldman/status/397772772757082113 (Zeldman!)
+
 https://twitter.com/zeldman/status/397803004155674624
+
 https://twitter.com/GEdesign/status/397817548584259584 (@GE!)
+
 https://twitter.com/johnallsopp/status/398013349096460288 (@alsopp!)
+
 http://blog.hood.ie/2013/11/say-hello-to-offline-first/ ALA!
+
 https://twitter.com/codepo8/status/397812845917646848
+
 
 ### Quotes
 
-https://twitter.com/distilledhype/status/397780420701736960
-https://twitter.com/elisabethrobson/status/397784989288251394
-https://twitter.com/ideasasylum/status/397791194669129728
-https://twitter.com/me_bx/status/397794684862730241
+I totally love this http://blog.hood.ie/2013/11/say-hello-to-offline-first/ … #offlinefirst — https://twitter.com/distilledhype/status/397780420701736960
+
+Glad to see this "offline first" initiative in mobile development. We need it! http://offlinefirst.org/ — https://twitter.com/elisabethrobson/status/397784989288251394
+
+The best places on Earth are offline >> RT @janl: Geography is non-negotiable — http://blog.hood.ie/2013/11/say-hello-to-offline-first/ … #offlinefirst http://offlinefirst.org — https://twitter.com/ideasasylum/status/397791194669129728
+
+We're in almost in 2014, glad to finally read #offlinefirst on my timeline. Was about time :) — https://twitter.com/me_bx/status/397794684862730241
 
 As field linguist, who aims at useful web apps for researchers in the field and the office, I couldn't be more excited about #offlinefirst — https://twitter.com/fxru/status/398055549352550400
 
