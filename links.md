@@ -9,3 +9,7 @@ http://blog.joelambert.co.uk/2012/11/26/offline-first-a-better-html5-user-experi
 http://lanyrd.com/2013/realtime-conf-europe/scdxrk/
 
 http://aanandprasad.com/articles/offline/
+
+http://developer.chrome.com/devsummit/sessions#offline (TBD)
+
+http://www.youtube.com/watch?v=qwywMlGE0vY
