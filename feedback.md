@@ -12,7 +12,7 @@ https://twitter.com/zeldman/status/397803004155674624
 
 https://twitter.com/GEdesign/status/397817548584259584 (@GE!)
 
-https://twitter.com/johnallsopp/status/398013349096460288 (@alsopp!)
+https://twitter.com/johnallsopp/status/398013349096460288 (@allsopp!)
 
 http://blog.hood.ie/2013/11/say-hello-to-offline-first/ ALA!
 
