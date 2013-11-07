@@ -6,6 +6,8 @@ Here’s a more or less complete list of feedback we’ve received on the initia
 
 ### Notable Mentions
 
+https://twitter.com/beep/status/398060491987484672 (Ethan Marcotte!)
+
 https://twitter.com/zeldman/status/397772772757082113 (Zeldman!)
 
 https://twitter.com/zeldman/status/397803004155674624
@@ -81,7 +83,11 @@ e.g. have a look at a messaging or sync model, because bolting retry/cancel onto
 
 CAP theorem for mobile: P is *definitely* going to happen, and frequently too. Deal with it. — https://twitter.com/jcoglan/status/398065097202868224
 
+“We can’t keep building apps with the desktop mindset of permanent, fast connectivity.” Oh, I love everything about http://blog.hood.ie/2013/11/say-hello-to-offline-first/ - https://twitter.com/beep/status/398060491987484672 (Ethan Marcotte)
 
+And a hearty HELL YES to http://offlinefirst.org/  okay i’m gonna go get coffee now brb - https://twitter.com/beep/status/398061239915806720 (Ethan Marcotte)
+
+I’ve spent a stupid amount of time thinking about that idea: that “offline” should be the default case we design for, and treat “online” as the enhancement. So yeah, I got a little excited when I saw Offline First’s mission statement - http://unstoppablerobotninja.com/entry/offline-first/ (Ethan Marcotte)
 
 ## Hacker News
 
