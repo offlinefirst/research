@@ -107,7 +107,7 @@ Enjoying watching @jaffathecake talking progressive enhancement with “offline 
 How to build "offline first" Web experiences using ServiceWorker
 http://t.co/Q4JHLUs8SU my notes from @jaffathecake talk #chromedevsummit — https://twitter.com/lukew/status/403236720138674176
 
-\#chromedevsummit @jaffathecake says offline first is the next generation of progressive enhancement — https://twitter.com/keynotesystems/status/403237904052281344
+`#chromedevsummit` @jaffathecake says offline first is the next generation of progressive enhancement — https://twitter.com/keynotesystems/status/403237904052281344
 
 @lukew @jaffathecake Can see this becoming the new 'mobile first' - "assume people are offline, then enhance if they are actually online." — https://twitter.com/pobdev/status/403237950580064256
 
