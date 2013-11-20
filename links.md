@@ -13,3 +13,5 @@ http://aanandprasad.com/articles/offline/
 http://developer.chrome.com/devsummit/sessions#offline (TBD)
 
 http://www.youtube.com/watch?v=qwywMlGE0vY
+
+Notes from Jake Arrchibald’s Service Worker talk at the Chrome Dev Summit http://www.lukew.com/ff/entry.asp?1820
