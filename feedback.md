@@ -82,10 +82,41 @@ e.g. have a look at a messaging or sync model, because bolting retry/cancel onto
 CAP theorem for mobile: P is *definitely* going to happen, and frequently too. Deal with it. — https://twitter.com/jcoglan/status/398065097202868224
 
 
+### After Jake Archibald’s talk at the Chrome Dev Summit, Nov 20th, 2013
+
+@janl @jaffathecake is talking offline first at #chromedevslummit right now. — https://twitter.com/HenrikJoreteg/status/403233685844926464
+
+Mobile first, offline first, content first, cross browser.. can't we just rename all of these to 'The Right Way To Make Something' — https://twitter.com/ShaneHudson/status/403233715016314881
+
+A network connection is a "potential enhancement" for your (mobile) site.  Offline first.  #chromedevsummit — https://twitter.com/bobebert/status/403233931241070592
+
+#chromedevsummit offline first is the next generation of progressive enhancement — https://twitter.com/bobebert/status/403233931241070592
+
+"Treat the network at a potential enhancement." Yes, this! @jaffathecake offline first — https://twitter.com/HenrikJoreteg/status/403234042931589120
+
+.@jaffathecake "offline first" (talking about ServiceWorker) #chromedevsummit — https://twitter.com/keynotesystems/status/403234220757110784
+
+// Mobile first, is so last month. It’s about offline first. #chromedevsummit @jaffathecake — https://twitter.com/HenriHelvetica/status/403234823096922112
+
+Though new APIs are always nice, FT has solved a lot of 'offline first' problems with judicious use of localStorage, etc. #chromedevsummit — https://twitter.com/RussB/status/403235192678006784
+
+Agreed @jaffathecake offline first = win. Been doing so via FileSystem API lately. ServiceWorkers can't happen soon enough. #chromedevsummit — https://twitter.com/justinribeiro/status/403235489412431872
+
+Enjoying watching @jaffathecake talking progressive enhancement with “offline first” showing the new ServiceWorker API #ChromeDevSummit — https://twitter.com/ginader/status/403235738788962304
+
+How to build "offline first" Web experiences using ServiceWorker
+http://t.co/Q4JHLUs8SU my notes from @jaffathecake talk #chromedevsummit — https://twitter.com/lukew/status/403236720138674176
+
+#chromedevsummit @jaffathecake says offline first is the next generation of progressive enhancement — https://twitter.com/keynotesystems/status/403237904052281344
+
+@lukew @jaffathecake Can see this becoming the new 'mobile first' - "assume people are offline, then enhance if they are actually online." — https://twitter.com/pobdev/status/403237950580064256
+
+Great talk about focusing on offline first when doing web development from @jaffathecake at the #ChromeDevSummit — https://twitter.com/m_kautzmann/status/403239166311690240`
+
 
 ## Hacker News
 
-https://news.ycombinator.com/item?id=6676369 
+https://news.ycombinator.com/item?id=6676369
 
 I hope this becomes a popular maxim - fed up of offline not working for productivity tools (not necessary for other types of apps, but Trello is a shining example of this omission making productivity apps near-useless). — https://news.ycombinator.com/item?id=6676516
 
