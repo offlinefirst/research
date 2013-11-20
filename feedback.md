@@ -90,7 +90,7 @@ Mobile first, offline first, content first, cross browser.. can't we just rename
 
 A network connection is a "potential enhancement" for your (mobile) site.  Offline first.  #chromedevsummit — https://twitter.com/bobebert/status/403233931241070592
 
-#chromedevsummit offline first is the next generation of progressive enhancement — https://twitter.com/bobebert/status/403233931241070592
+`#chromedevsummit` offline first is the next generation of progressive enhancement — https://twitter.com/bobebert/status/403233931241070592
 
 "Treat the network at a potential enhancement." Yes, this! @jaffathecake offline first — https://twitter.com/HenrikJoreteg/status/403234042931589120
 
