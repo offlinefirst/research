@@ -113,6 +113,10 @@ http://t.co/Q4JHLUs8SU my notes from @jaffathecake talk #chromedevsummit — htt
 
 Great talk about focusing on offline first when doing web development from @jaffathecake at the #ChromeDevSummit — https://twitter.com/m_kautzmann/status/403239166311690240`
 
+## General Offline Thoughts
+
+Wish the Foursquare app was offline useable, so I could view my todo list while roaming offline through a city.
+Jelle Ackermann – https://twitter.com/jellea/status/419408108838854657
 
 ## Hacker News
 
