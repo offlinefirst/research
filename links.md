@@ -19,3 +19,5 @@ Notes from Jake Arrchibald’s Service Worker talk at the Chrome Dev Summit http
 ServiceWorker explanation: https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md
 
 ServiceWorker “polyfill”: https://github.com/phuu/ServiceWorker-Polyfill/
+
+https://github.com/hubspot/offline
