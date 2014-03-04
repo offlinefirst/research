@@ -23,3 +23,5 @@ ServiceWorker “polyfill”: https://github.com/phuu/ServiceWorker-Polyfill/
 https://github.com/hubspot/offline
 
 Mobile browser storage limit research: http://www.html5rocks.com/en/tutorials/offline/quota-research/
+
+Will it work when I am offline? http://jacobsondergaard.com/blog/will-it-work-if-i-am-offline/
