@@ -25,3 +25,5 @@ https://github.com/hubspot/offline
 Mobile browser storage limit research: http://www.html5rocks.com/en/tutorials/offline/quota-research/
 
 Will it work when I am offline? http://jacobsondergaard.com/blog/will-it-work-if-i-am-offline/
+
+Do HTML5 apps have to be online all the time? http://christianheilmann.com/2014/03/23/do-html5-apps-have-to-be-online-all-the-time/
