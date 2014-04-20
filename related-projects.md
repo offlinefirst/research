@@ -1,5 +1,5 @@
 # Related Projects
 
-Hoodie
-remotestorage
-unhosted
+- [Hoodie](http://hood.ie/)
+- [remoteStorage](http://remotestorage.io/)
+- [PouchDB](http://pouchdb.com/)
