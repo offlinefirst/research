@@ -10,7 +10,7 @@ http://lanyrd.com/2013/realtime-conf-europe/scdxrk/
 
 http://aanandprasad.com/articles/offline/
 
-http://developer.chrome.com/devsummit/sessions#offline (TBD)
+https://www.youtube.com/watch?v=Z7sRMg0f5Hk Network connectivity: optional - Chrome Dev Summit 2013 (Jake Archibald)
 
 http://www.youtube.com/watch?v=qwywMlGE0vY
 
