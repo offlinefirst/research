@@ -1,6 +1,6 @@
 # Links
 
-Intrroduction to Offline First by Team Hoodie: http://blog.hood.ie/2013/11/say-hello-to-offline-first/
+Introduction to Offline First by Team Hoodie: http://blog.hood.ie/2013/11/say-hello-to-offline-first/
 
 https://speakerdeck.com/paulkinlan/building-web-apps-of-the-future-tomorrow-today-and-yesterday
 
