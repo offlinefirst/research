@@ -142,7 +142,7 @@ https://www.youtube.com/watch?v=4uQMl7mFB6g (Jake Archibald, June 2014)
 > Introducing ServiceWorker, the API that gives you full control over HTTP caching, request, and forms the basis for push messaging, alarms, geofencing and background sync.
 
 ### The Offline Web
-https://www.youtube.com/watch?v=4uQMl7mFB6g (Dale Harvey at Scotch on the Rocks, June 2014)
+https://www.youtube.com/watch?v=nnLBdFLo2fc (Dale Harvey at Scotch on the Rocks, June 2014)
 
 
 ## Related
