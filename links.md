@@ -127,6 +127,24 @@ see also:
 - http://writing.jan.io/2011/02/22/the-multiscreen-revolution-english-translation.html
 
 
+### Alex Feyerke - Offline First
+https://www.youtube.com/watch?v=dPz_5-MEvcg (Alex Feyerke at Web Directions, May 2014)
+
+> Just assume for a minute that the technical side of building offline-capable (web) apps was really simple. 
+
+> But what does building apps offline first mean in terms of interfaces and experiences, in terms of your application's structure?
+
+> A talk about patterns for offline UX, persistent local data, confident wording, pre-empting user needs, conflict resolution and ordering things in lists.
+
+### The ServiceWorker: The network layer is yours to own
+https://www.youtube.com/watch?v=4uQMl7mFB6g (Jake Archibald, June 2014)
+
+> Introducing ServiceWorker, the API that gives you full control over HTTP caching, request, and forms the basis for push messaging, alarms, geofencing and background sync.
+
+### The Offline Web
+https://www.youtube.com/watch?v=nnLBdFLo2fc (Dale Harvey at Scotch on the Rocks, June 2014)
+
+
 ## Related
 
 - Automatically display online/offline indication to your users: https://github.com/hubspot/offline
