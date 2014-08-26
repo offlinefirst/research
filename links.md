@@ -149,3 +149,13 @@ https://www.youtube.com/watch?v=nnLBdFLo2fc (Dale Harvey at Scotch on the Rocks,
 
 - Automatically display online/offline indication to your users: https://github.com/hubspot/offline
 - Mobile browser storage limit research: http://www.html5rocks.com/en/tutorials/offline/quota-research/
+
+
+
+## Building an offline-first mobile web app by the Financial Times
+
+http://labs.ft.com/2012/08/basic-offline-html5-web-app/
+https://speakerdeck.com/triblondon/offline-rules-full-frontal-2012
+http://www.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app-a-case-study/
+
+Good discussions on appCache and localStorage along with real-world considerations
